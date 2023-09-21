@@ -1,1 +1,18 @@
 # BiT-final-year-project-management-system-
+## Final Year Project Mangement System For Bahir Dar Institute of Technology vue,tailwind,express,MYSQL database project with crud operation and plagiarism checker
+![chat](https://github.com/hailiye/BiT-final-year-project-management-system-/assets/119116125/4effd850-a754-42e0-ab1c-ea2eede8fb1f)
+![chairHome](https://github.com/hailiye/BiT-final-year-project-management-system-/assets/119116125/b863c764-f3c7-4b1c-8117-13ddd00a6628)
+![Untitled6](https://github.com/hailiye/BiT-final-year-project-management-system-/assets/119116125/36c91a40-9f2c-4087-b322-ebe1901dfb56)
+![Untitled5](https://github.com/hailiye/BiT-final-year-project-management-system-/assets/119116125/dbbc7f0c-335b-4a52-8753-22e364f95426)
+![Untitled4](https://github.com/hailiye/BiT-final-year-project-management-system-/assets/119116125/9166c373-ab67-4f4a-935d-9b47a6c4839e)
+![Untitled2](https://github.com/hailiye/BiT-final-year-project-management-system-/assets/119116125/60a5b111-0961-49af-b0fe-e50531a9e355)
+![Untitled1](https://github.com/hailiye/BiT-final-year-project-management-system-/assets/119116125/20337979-4d2c-400a-bbb0-1d9bd603cd55)
+![Untitled](https://github.com/hailiye/BiT-final-year-project-management-system-/assets/119116125/8d629a38-ed27-41f1-b5ef-8afdcc9ddd73)
+![studentListPage](https://github.com/hailiye/BiT-final-year-project-management-system-/assets/119116125/785b57a9-2933-4b68-92d6-f436b13410fc)
+![staffMemberList](https://github.com/hailiye/BiT-final-year-project-management-system-/assets/119116125/0cd6c6d3-56ec-43fc-8312-7afcebd7d6c5)
+![repositoryForm](https://github.com/hailiye/BiT-final-year-project-management-system-/assets/119116125/c96fd930-4bbb-45e8-9c86-242246cf92f8)
+![projectListPage](https://github.com/hailiye/BiT-final-year-project-management-system-/assets/119116125/7e27f2eb-6a65-4c50-870a-355a69420f4f)
+![noticeView](https://github.com/hailiye/BiT-final-year-project-management-system-/assets/119116125/e3e49d8a-4172-4f1f-92c6-beb51f5bef19)
+![noticeForm](https://github.com/hailiye/BiT-final-year-project-management-system-/assets/119116125/bc08bc3f-0c3e-4c7e-b843-8715beadc212)
+![facultyHome](https://github.com/hailiye/BiT-final-year-project-management-system-/assets/119116125/3478e27e-51ff-46e2-b1c1-7c4b8ff70030)
+![departmentHome](https://github.com/hailiye/BiT-final-year-project-management-system-/assets/119116125/ee0f3882-97a1-4bba-ac4a-47ce0d5e066e)
